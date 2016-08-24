@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Coesius here,I like C/C++(that's what I'm familiar with).
+Nice to meet you! POI!
